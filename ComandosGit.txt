@@ -1,0 +1,12 @@
+Comandos GIT
+
+git clone https://github.com/pedroquina/aulagit.git
+
+git add arquivo.txt
+
+git status
+
+git commit -m "Envio de informação privilegiada"
+
+git push 
+
