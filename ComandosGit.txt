@@ -3,6 +3,7 @@ Comandos GIT  26/10/2022
 git clone https://github.com/pedroquina/aulagit.git
 
 git add arquivo.txt
+git add .
 
 git status
 
@@ -10,3 +11,4 @@ git commit -m "Envio de informação privilegiada"
 
 git push 
 
+git pull
